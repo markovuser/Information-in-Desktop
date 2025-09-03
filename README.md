@@ -1,8 +1,8 @@
-Information in Desktop
-Windows 10, 11 desktop widget
-Username
-Computer IP address
-Date and time
-Battery charge
-RAM usage
-Processor load
+Information in Desktop<br>
+Windows 10, 11 desktop widget<br>
+Username<br>
+Computer IP address<br>
+Date and time<br>
+Battery charge<br>
+RAM usage<br>
+Processor load<br>
