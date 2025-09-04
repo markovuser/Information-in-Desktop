@@ -6,5 +6,8 @@ Date and time<br>
 Battery charge<br>
 RAM usage<br>
 Processor load<br><br>
+  <img src=https://github.com/markovuser/Information-in-Desktop/releases/download/latest/IID1.jpg><br>
+  <img src=https://github.com/markovuser/Information-in-Desktop/releases/download/latest/IID2.jpg>
+  <img src=https://github.com/markovuser/Information-in-Desktop/releases/download/latest/IID3.jpg><br><br>
 <a href="https://github.com/markovuser/Information-in-Desktop/releases/download/latest/Information.in.Desktop.setup.exe" target="_blank" title="FileList" ><b><span style="font-display:auto;font-size: 40px;">Download</span></b></a>
 </div>
